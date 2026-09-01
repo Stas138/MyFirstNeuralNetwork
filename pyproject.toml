@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "StasesNeuralNet"
+version = "0.1.0"
+description = "My own neural network library"
+readme = "README.md"
+requires-python = ">=3.10"
