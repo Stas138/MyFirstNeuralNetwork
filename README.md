@@ -35,3 +35,4 @@ How to use:
     answer = Net.forward(input_vector)
 
 This litle project have only RELU
+Ignore README.py, I have no idea how to delete this
